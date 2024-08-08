@@ -1,9 +1,4 @@
 # Stock-Exchange-Manager
-In this project, we design and implement a Stock Exchange Manager using Java, focusing on applying the principles of Object-Oriented Programming (OOP). The Stock Exchange Manager provides a platform for traders to buy and sell stocks, manage portfolios, and analyze market data in a simulated stock exchange environment.
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/hIpamZ_2)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=14947967)
-# CMP1242_S24_JavaStarterRepo
 
 ## ***Members:***
 
