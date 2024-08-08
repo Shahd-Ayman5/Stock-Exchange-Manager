@@ -3,15 +3,10 @@
 ## ***Members:***
 
 - [Samar Hatem Fathy](https://github.com/samarhatem879)
-  - Sec: 1  BN: 35
 - [Shahd Ayman Rizk](https://github.com/Shahd-Ayman5)
-  - Sec: 2  BN: 4
 - [Nada Hassan Mohamed](https://github.com/Nadahassan147)
-  - Sec: 2  BN: 32
 - [Nada Hesham Mohamed](https://github.com/nadahesham249)
-  - Sec: 2  BN: 33
 - [Nayera Sherif Elaraby](https://github.com/Nayera5)
-  - Sec: 2  BN: 36
 ---
 # Description
 
