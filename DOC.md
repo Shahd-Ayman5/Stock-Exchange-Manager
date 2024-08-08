@@ -1,4 +1,3 @@
-
 > # Documentation
 
 ### HelloApplication Class
